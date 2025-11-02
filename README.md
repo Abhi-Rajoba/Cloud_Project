@@ -95,7 +95,7 @@ AWS-hosted-Virtual-Classroom-and-Learning-Platform/
 
 ## **DEMO** 
 
-https://drive.google.com/file/d/1OLatrdIu8xy5wQyrohKWNNmUYBknZx1f/view?usp=sharing <br>
+https://drive.google.com/file/d/1mpXamYiPJsXc-WFeO6sM0452r96cgaMk/view?usp=drive_link <br>
 https://github.com/Abhi-Rajoba/Cloud_Project.git
 
 ## ✅ Conclusion
